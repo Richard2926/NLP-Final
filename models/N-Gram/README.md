@@ -1,1 +1,1 @@
-# NLP-Final
+# NLP-Finalngram generation for humor. Used both character and word - stuck with word generation
