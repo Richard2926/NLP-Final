@@ -4,7 +4,7 @@ Download the ipynb model and run the cells to replicate the model output.
 
 # Testing the BERT model on new jokes
 
-If you want to run our existing BERT model on new jokes make sure you have the latest version of pytorch, tensorflow, and huggingface transoformers
+If you want to run our existing BERT model on new jokes make sure you have the latest version of pytorch, tensorflow, and huggingface transformers
 
 ```
 pip install --upgrade tensorflow
