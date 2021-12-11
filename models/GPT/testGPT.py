@@ -1,6 +1,9 @@
 from transformers import TFGPT2LMHeadModel
 from transformers import GPT2Tokenizer
 
+print("Loading GPT model, please be patient!")
+print()
+
 model = TFGPT2LMHeadModel.from_pretrained('./output', from_pt=True)
 tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
 
